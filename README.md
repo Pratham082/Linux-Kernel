@@ -107,21 +107,3 @@ Prints the current working directory.
 ./your_executable_name pwd
 ```
 
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-- [Your Name](https://github.com/yourusername) - Project Author
-
-Feel free to contact me if you have any questions or suggestions.
