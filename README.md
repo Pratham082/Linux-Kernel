@@ -16,29 +16,7 @@ This project is an implementation of basic Ubuntu command line functionalities u
 
 The project consists of the following files and directories:
 
-```
-├── src
-│   ├── main.c
-│   ├── mkdir.c
-│   ├── rm.c
-│   ├── ls.c
-│   ├── cat.c
-│   ├── cd.c
-│   ├── pwd.c
-├── include
-│   ├── mkdir.h
-│   ├── rm.h
-│   ├── ls.h
-│   ├── cat.h
-│   ├── cd.h
-│   ├── pwd.h
-├── Makefile
-├── README.md
-```
 
-- `src`: Contains the source code for each command functionality.
-- `include`: Contains the header files for each command functionality.
-- `Makefile`: Used to compile the project.
 
 ## Installation
 
